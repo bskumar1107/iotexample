@@ -1,7 +1,7 @@
 # iotexample
-Upload Data to your Things speak channel
+Upload Data to your Things speak channel Using Raspberry Pi
 
-the python script uploads the data thngspeak channel for every 15 seconds.
+The python script uploads the data thngspeak channel for every 15 seconds.
 
 
 
